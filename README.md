@@ -24,8 +24,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,js,sql,c,java,talend,tableau,react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=arcgis,qgis,flask,spark,kafka,mongodb,sqlserver,postgresql,oracle,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,js,c,java,react,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=arcgis,qgis,flask,kafka,mongodb,postgresql,firebase" /><br>
 </div>
 
 <br/>
