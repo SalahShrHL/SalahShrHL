@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,js,c,java,react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=arcgis,qgis,flask,kafka,mongodb,postgresql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,kafka,mongodb,postgresql,firebase" /><br>
 </div>
 
 <br/>
